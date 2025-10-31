@@ -7,17 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkhunger&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkhunger" /> </p>
 
-- 🔭 I’m a Data Scientist skilled in *Machine Learning, Deep Learning, NLP, and Computer Vision*
-- 🌱 Currently exploring *Generative AI and Large Language Models (LLMs)*  
-- 🧠 I love building intelligent systems that make real-world impact  
-- 💬 Ask me about anything related to *ML, NLP, DL, TensorFlow, Word Embeddings, Transformers*  
+- 🔭 Full Stack Developer skilled in *MERN, Next.js, TypeScript, and PostgreSQL*.
+- 💻 My core stack: *React.js, Next.js, Node.js, Express.js, TypeScript*  
+- 🚀 Building *scalable, responsive, and high-performance* web applications from the ground up.  
+- 🧠 My goal: To build *robust, high-performance web applications* from concept to deployment.
+- 💬 Let's connect! Happy to chat about *building modern web applications and scalable backend systems*.
 - 📫 Reach me at: *keshavladdha005@gmail.com*  
-- ⚡ Fun fact: *Sarcasm is my second language*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shivam-khunger-aa2a09249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam khunger" height="30" width="40" /></a>
-<a href="https://instagram.com/shivam_khunger_7643" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivam_khunger_7643" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/keshav-laddha-523473322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav laddha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
