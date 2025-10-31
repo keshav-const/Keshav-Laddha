@@ -53,3 +53,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshav-const&show_icons=true&locale=en" alt="keshavladdha" /></p>
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=keshav-const)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=keshav-const&theme=radical&no-frame=false&no-bg=false&margin-w=4)
