@@ -32,18 +32,14 @@
 <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
 </p>
 
-<h4>Other Skills:</h4>
-
-- 🚀 *IoT & Embedded Systems* – ESP32, Sensors (IR, DHT22, MQ-135), LCD, Push Buttons  
-- ☁ *Cloud Integration* – Real-time monitoring using *ThingSpeak*
 
 ---
 ### Some of the Projects
 
-- [Smart Food Monitoring: AI for Food Quality Prediction](https://github.com/ShivamKhunger/Smart-Food-Monitoring)
-- [Financial Sentiment Analysis using FinBERT](https://github.com/ShivamKhunger/Financial-Sentiment-Analysis-Finbert)
-- [Smart Washroom Occupancy and Cleaniness Monitoring System using ESP32 and ThingSpeak](https://github.com/ShivamKhunger/Smart-Washroom-Occupancy-Quality-Monitoring)
-- [ML based Disease Predicition system, deployed using streamlit](https://github.com/ShivamKhunger/Disease-Prediction)
+- [Code-Collabs](https://github.com/keshav-const/inkwell-code)
+- [Photogram](https://github.com/keshav-const/Photogram)
+- [Portfolio-Generator](https://github.com/keshav-const/Portfolio_generator_1)
+- [Skill Swap-P2P Skill Exchange Platform](https://github.com/keshav-const/SkillSwap)
 
 ---
 
